@@ -1,0 +1,14 @@
+{
+  "games": [
+    {
+      "id": "01",
+      "title": "Test Game",
+      "description": "testt11",
+      "version": "1.0.2",
+      "cover_image_url": "https://raw.githubusercontent.com/.../images/cyber_quest.jpg",
+      "download_url": "https://github.com/.../releases/download/cyber_v1.0.2/game.zip",
+      "executable_name": "CyberQuest.exe",
+      "size_mb": 1500
+    }
+  ]
+}
