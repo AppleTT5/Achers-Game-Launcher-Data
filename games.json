@@ -5,15 +5,11 @@
       "title": "Survalist",
       "description": "Выживай строй базы и зашишайся от зомби",
       "version": "1.0.0",
-      "cover_image_url": "https://...",
-      "download_url": "https://.../cyber_quest_v1.2.0.zip",
+      "cover_image_url": "https://avatars.mds.yandex.net/i?id=e67049a0438f6304bf72fcffbe01a83496ddf340-4590839-images-thumbs&n=13",
+      "download_url": "https://github.com/AppleTT5/Achers-Game-Launcher-Data/releases/download/Relise/v0-1_Windows.zip",
       "executable_path": "SimpleMultiplayerSurvival.exe",
-      "size_mb": 1850,
-      "required_files": [
-        "Engine/Content",
-        "Engine/Plugins",
-        "Binaries"
-      ]
+      "size_mb": 330,
+      
     }
   ]
 }
