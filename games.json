@@ -2,13 +2,18 @@
   "games": [
     {
       "id": "01",
-      "title": "Test Game",
-      "description": "testt11",
-      "version": "1.0.2",
-      "cover_image_url": "https://raw.githubusercontent.com/.../images/cyber_quest.jpg",
-      "download_url": "https://github.com/.../releases/download/cyber_v1.0.2/game.zip",
-      "executable_name": "CyberQuest.exe",
-      "size_mb": 1500
+      "title": "Survalist",
+      "description": "Выживай строй базы и зашишайся от зомби",
+      "version": "1.0.0",
+      "cover_image_url": "https://...",
+      "download_url": "https://.../cyber_quest_v1.2.0.zip",
+      "executable_path": "SimpleMultiplayerSurvival.exe",
+      "size_mb": 1850,
+      "required_files": [
+        "Engine/Content",
+        "Engine/Plugins",
+        "Binaries"
+      ]
     }
   ]
 }
