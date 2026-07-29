@@ -1,5 +1,5 @@
 {
-  "latest_version": "1.0.0",
-  "download_url": "https://github.com/AppleTT5/Achers-Game-Launcher-Data/releases/download/LauncherV1.0.0Final/launcher.exe",
-  "changelog": "Первая версия лаунчера"
+  "latest_version": "1.1.0",
+  "download_url": "https://github.com/AppleTT5/Achers-Game-Launcher-Data/releases/download/LauncherV1.1.0/launcher.exe",
+  "changelog": "Версия 1.1.0\n\n• Новая система хранения local_state.json v2.0 с миграциями и разделением данных на games, stats, settings и cache\n• Централизованное логирование — все события записываются в %APPDATA%/GamesLauncher/logs/\n• Автообновление каталога каждые 20 минут\n• Кеширование обложек с проверкой актуальности по URL и возрасту файла\n• Стандартизация путей установки — все игры хранятся в папке game/\n• Автоматическая нормализация старых установок при запуске лаунчера\n• Переключатель MB/GB в фильтрах размера с динамическими пресетами\n• Фильтры по размеру (диапазон от/до), студии и подтверждённым разработчикам\n• Мини-поиск в выпадающем списке студий\n• Блок подтверждения разработчика в DetailsPanel с VerificationBadge\n• Поля original и developer в каталоге для разделения своих и сторонних игр\n• Исправлена ошибка WinError 183 при обновлении кешированных картинок\n• Исправлен запуск updater.exe из onefile-сборки launcher.exe\n• Безопасная запись local_state.json через tmp-файл и backup"
 }
