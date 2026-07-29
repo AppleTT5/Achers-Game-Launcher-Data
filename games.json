@@ -8,6 +8,24 @@
       "cover_image_url": "https://avatars.mds.yandex.net/i?id=e67049a0438f6304bf72fcffbe01a83496ddf340-4590839-images-thumbs&n=13",
       "download_url": "https://github.com/AppleTT5/Achers-Game-Launcher-Data/releases/download/Relise/v0-1_Windows.zip",
       "executable_path": "SimpleMultiplayerSurvival.exe",
-      "size_mb": 330}
+      "size_mb": 330},
+    {
+      "id": "StoresToTell",
+      "title": "Stores To Tell The Stoneville Incident ",
+      "description": "[Игры разработанна Zebbax все права пренадлежат Zebbax,Модерацией своей игры и исправлением багов занимается Zebbax],Полную информацию можно найти здесь https://zebaxx.itch.io/stories-to-tell-the-stoneville-incident ",
+      "version": "1.1.0",
+      "cover_image_url": "https://img.itch.zone/aW1hZ2UvNDc5MDc3OS8yODU3MDUxMy5qcGc=/original/LtZq1d.jpg",
+      "download_url": "https://itchio-mirror.cb031a832f44726753d6267436f3b414.r2.cloudflarestorage.com/upload2/game/4790779/18381550?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=3edfcce40115d057d0b5606758e7e9ee%2F20260729%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260729T081245Z&X-Amz-Expires=60&X-Amz-SignedHeaders=host&X-Amz-Signature=6de7be461ecdcbb730448b5e9bde22f98b5723e1d2ae2e0c1ebcbc3796c63765",
+      "executable_path": "Stories to Tell.exe",
+      "size_mb": 2 662},
+    {
+      "id": "Minetest",
+      "title": "Minetest ",
+      "description": "[Игры разработанна NoName все права пренадлежат NoName,Модерацией своей игры и исправлением багов занимается NoName],Полную информацию можно найти здесь https://titellaire.itch.io/minetest",
+      "version": "1.0.0",
+      "cover_image_url": "https://img.itch.zone/aW1hZ2UvODM1MDIvMjM5ODYxODguanBn/347x500/YM1ppy.jpg",
+      "download_url": "https://itchio-mirror.cb031a832f44726753d6267436f3b414.r2.cloudflarestorage.com/upload2/game/83502/15307637?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=3edfcce40115d057d0b5606758e7e9ee%2F20260729%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260729T083446Z&X-Amz-Expires=60&X-Amz-SignedHeaders=host&X-Amz-Signature=828bdb05feab1fd862de0d7fe705cf20fc0e37ae868f51dbc76ae23aed9e8e48",
+      "executable_path": "minetest-5.7.0-win64/bin/minetest.exe",
+      "size_mb": 20}
   ]
 }
