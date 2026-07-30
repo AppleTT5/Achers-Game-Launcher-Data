@@ -14,7 +14,7 @@
     {
       "id": "Minetest",
       "title": "Minetest ",
-      "description": "[Игра разработанна Неизвестный все права пренадлежат Неизвестный,Модерацией своей игры и исправлением багов занимается Неизвестный],Полную информацию можно найти здесь https://titellaire.itch.io/minetest",
+      "description": "Аналог Маинкрафта с октрытом кодом живёт благадрая модам и их количеству",
       "version": "1.0.0",
       "original" :0,
       "developer": "Celeron55",
@@ -25,13 +25,24 @@
     {
       "id": "LibreTrainSim",
       "title": "Libre TrainSim",
-      "description": "[Игра разработанна Неизвестный все права пренадлежат Неизвестный,Модерацией своей игры и исправлением багов занимается Неизвестный],Полную информацию можно найти здесь https://jean28518.itch.io/libre-train-sim",
+      "description": "Игра про поезда",
       "version": "0.8.1",
       "original" :0,
       "developer": "Jean28518",
       "cover_image_url": "https://img.itch.zone/aW1nLzY2OTc0MzEuanBn/315x250%23c/aaXi7P.jpg",
       "download_url": "https://github.com/Libre-TrainSim/Libre-TrainSim/releases/download/v0.8.1/Libre_TrainSim-win64.zip",
       "executable_path": "Libre_TrainSim-0_8_1.exe",
-      "size_mb": 254}
+      "size_mb": 254},
+    {
+  "id": "Xonotic",
+  "title": "Xonotic",
+  "description": "Быстрый и динамичный 3D-шутер от первого лица с открытым исходным кодом.",
+  "version": "0.8.6",
+  "original" :0,
+  "developer": "Xonotic",
+  "cover_image_url": "https://xonotic.org/static/img/carousel_weapons.jpg",
+  "download_url": "https://dl.xonotic.org/xonotic-0.8.6.zip",
+  "executable_path": "xonotic.exe",
+  "size_mb": 1228}
   ]
 }
