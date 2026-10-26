@@ -54,7 +54,7 @@
       "developer": "Legacy Launcher",
       "cover_image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202407/0401/670c294ded3baf4fa11068db2ec6758c63f7daeb266a35a1.png",
       "download_url": "https://github.com/AppleTT5/Achers-Game-Launcher-Data/releases/download/LegacyLauncher/tl.zip",
-      "executable_path": "LL.exe",
+      "executable_path": "MinecraftBundle/LL.exe",
       "size_mb": 120}
   ]
 }
